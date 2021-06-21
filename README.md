@@ -1,3 +1,7 @@
+# **Warung Depot Bu Tini**
+Web Sederhana menggunakan Framework Yii2 Advanced Template dalam rangka memenuhi tugas mata kuliah Workshop Pemrograman Framework 
+# **Nama** :
+M.Nasirul Umama (2103191202)
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
@@ -5,10 +9,7 @@
     <h1 align="center">Yii 2 Advanced Project Template</h1>
     <br>
 </p>
-# **Warung Depot Bu Tini**
-Web Sederhana menggunakan Framework Yii2 Advanced Template dalam rangka memenuhi tugas mata kuliah Workshop Pemrograman Framework 
-# **Nama** :
-M.Nasirul Umama (2103191202)
+
 
 Yii 2 Advanced Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
 developing complex Web applications with multiple tiers.
