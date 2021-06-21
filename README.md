@@ -5,6 +5,11 @@
     <h1 align="center">Yii 2 Advanced Project Template</h1>
     <br>
 </p>
+# Sistem Informasi Geografis dengan PHP dan Google Maps API
+
+Web Sederhana menggunakan Framework Yii2 Advanced Template dalam rangka memenuhi tugas mata kuliah Workshop Pemrograman Framework 
+# Nama #
+M.Nasirul Umama (2103191202)
 
 Yii 2 Advanced Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
 developing complex Web applications with multiple tiers.
